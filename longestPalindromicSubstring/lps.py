@@ -1,6 +1,6 @@
 import sys
 class Solution:
-   
+    # return string
     def longestPalindrome(self, s):
         if s == "" or s == None:
             return s
